@@ -8,6 +8,15 @@
     "activity_id": 3,
     "is_available": true
   },
+  "2026-09-09 20:00:00|2026-09-09 22:00:00": {
+    "id": 763,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-09 20:00:00",
+    "end": "2026-09-09 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
   "2026-09-11 20:00:00|2026-09-11 22:00:00": {
     "id": 764,
     "title": "Visites Sorbonne",
