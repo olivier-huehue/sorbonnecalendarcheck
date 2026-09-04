@@ -1,0 +1,218 @@
+{
+  "2026-09-07 20:00:00|2026-09-07 22:00:00": {
+    "id": 762,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-07 20:00:00",
+    "end": "2026-09-07 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-09 20:00:00|2026-09-09 22:00:00": {
+    "id": 763,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-09 20:00:00",
+    "end": "2026-09-09 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-11 20:00:00|2026-09-11 22:00:00": {
+    "id": 764,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-11 20:00:00",
+    "end": "2026-09-11 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-14 20:00:00|2026-09-14 22:00:00": {
+    "id": 765,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-14 20:00:00",
+    "end": "2026-09-14 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-16 20:00:00|2026-09-16 22:00:00": {
+    "id": 766,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-16 20:00:00",
+    "end": "2026-09-16 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-17 20:00:00|2026-09-17 22:00:00": {
+    "id": 775,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-17 20:00:00",
+    "end": "2026-09-17 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-18 20:00:00|2026-09-18 22:00:00": {
+    "id": 767,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-18 20:00:00",
+    "end": "2026-09-18 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-21 20:00:00|2026-09-21 22:00:00": {
+    "id": 768,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-21 20:00:00",
+    "end": "2026-09-21 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-25 20:00:00|2026-09-25 22:00:00": {
+    "id": 769,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-25 20:00:00",
+    "end": "2026-09-25 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-28 20:00:00|2026-09-28 22:00:00": {
+    "id": 770,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-28 20:00:00",
+    "end": "2026-09-28 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-09-30 20:00:00|2026-09-30 22:00:00": {
+    "id": 771,
+    "title": "Visites Sorbonne",
+    "start": "2026-09-30 20:00:00",
+    "end": "2026-09-30 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-02 20:00:00|2026-10-02 22:00:00": {
+    "id": 776,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-02 20:00:00",
+    "end": "2026-10-02 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-05 20:00:00|2026-10-05 22:00:00": {
+    "id": 777,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-05 20:00:00",
+    "end": "2026-10-05 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-07 20:00:00|2026-10-07 22:00:00": {
+    "id": 778,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-07 20:00:00",
+    "end": "2026-10-07 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-09 20:00:00|2026-10-09 22:00:00": {
+    "id": 779,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-09 20:00:00",
+    "end": "2026-10-09 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-12 20:00:00|2026-10-12 22:00:00": {
+    "id": 780,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-12 20:00:00",
+    "end": "2026-10-12 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-14 20:00:00|2026-10-14 22:00:00": {
+    "id": 781,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-14 20:00:00",
+    "end": "2026-10-14 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-16 20:00:00|2026-10-16 22:00:00": {
+    "id": 782,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-16 20:00:00",
+    "end": "2026-10-16 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-19 20:00:00|2026-10-19 22:00:00": {
+    "id": 783,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-19 20:00:00",
+    "end": "2026-10-19 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-21 20:00:00|2026-10-21 22:00:00": {
+    "id": 784,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-21 20:00:00",
+    "end": "2026-10-21 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-23 20:00:00|2026-10-23 22:00:00": {
+    "id": 785,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-23 20:00:00",
+    "end": "2026-10-23 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-26 20:00:00|2026-10-26 22:00:00": {
+    "id": 786,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-26 20:00:00",
+    "end": "2026-10-26 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-28 20:00:00|2026-10-28 22:00:00": {
+    "id": 787,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-28 20:00:00",
+    "end": "2026-10-28 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  },
+  "2026-10-30 20:00:00|2026-10-30 22:00:00": {
+    "id": 788,
+    "title": "Visites Sorbonne",
+    "start": "2026-10-30 20:00:00",
+    "end": "2026-10-30 22:00:00",
+    "color": "#ff8040",
+    "activity_id": 3,
+    "is_available": true
+  }
+}
